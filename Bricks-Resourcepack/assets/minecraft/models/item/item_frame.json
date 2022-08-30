@@ -4,6 +4,8 @@
     "layer0": "minecraft:item/item_frame"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 100000}, "model": "item/red_bricks"}
+    { "predicate": {"custom_model_data": 100000}, "model": "item/red_bricks"},
+	{ "predicate": {"custom_model_data": 200000}, "model": "item/green_bricks"},
+	{ "predicate": {"custom_model_data": 300000}, "model": "item/blue_bricks"}
  ]
 }
