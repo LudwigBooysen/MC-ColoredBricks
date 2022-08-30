@@ -1,2 +1,2 @@
-execute as @e[type=minecraft:item_frame,tag=magentabricks] at @s run function bricks:magentabricks/place
-execute as @e[type=minecraft:armor_stand,tag=magentabricks] at @s unless block ~ ~ ~ minecraft:barrier run function bricks:magentabricks/remove
+execute as @e[type=minecraft:item_frame,tag=redbricks] at @s run function bricks:redbricks/place
+execute as @e[type=minecraft:armor_stand,tag=redbricks] at @s unless block ~ ~ ~ minecraft:barrier run function bricks:redbricks/remove

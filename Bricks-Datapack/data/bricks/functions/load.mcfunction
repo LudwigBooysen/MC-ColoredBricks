@@ -1,1 +1,1 @@
-give @p item_frame{display:{Name:'{"text":"Magenta Bricks","italic":false}'},CustomModelData:696969,EntityTag:{Tags:["magentabricks"],Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:696969}},Invulnerable:1b,Invisible:1b,Fixed:1b,Silent:1b}} 1
+give @p item_frame{display:{Name:'{"text":"Red Bricks","italic":false}'},CustomModelData:100000,EntityTag:{Tags:["redbricks"],Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:100000}},Invulnerable:1b,Invisible:1b,Fixed:1b,Silent:1b}} 1
