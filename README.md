@@ -1,9 +1,12 @@
-# MC-ColoredBricks
+<h1>MC-ColoredBricks</h1>
 
-Colored Bricks in Minecraft!
+<p>
+	Colored Bricks in Minecraft!<br />
+</p>
 
-The idea is to be able to color bricks with dye in minecraft.
+<img source="Referance Images/blue_bricks_colored.png"></img>
+<img source="Referance Images/red_bricks_normal.png"></img>
 
-Goals:
-- Add all color dye bricks
-- Add a paint brush
+<p>
+	This project is just for fun, please feel free to become part of this project!
+</p>
