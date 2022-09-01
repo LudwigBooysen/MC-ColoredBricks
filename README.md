@@ -1,12 +1,8 @@
-<h1>MC-ColoredBricks</h1>
+# MC-ColoredBricks
 
-<p>
-	Colored Bricks in Minecraft!<br />
-</p>
+Colored Bricks in Minecraft!
 
-<img source="Referance Images/blue_bricks_colored.png"></img>
-<img source="Referance Images/red_bricks_normal.png"></img>
+![Blue Bricks Colored](https://github.com/LudwigBooysen/MC-ColoredBricks/Images/blue_bricks_colored)
+![Red Bricks Normal](https://github.com/LudwigBooysen/MC-ColoredBricks/Images/red_bricks_normal)
 
-<p>
-	This project is just for fun, please feel free to become part of this project!
-</p>
+This project is just for fun, please feel free to become part of this project!
