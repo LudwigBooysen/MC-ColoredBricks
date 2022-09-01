@@ -4,6 +4,12 @@
     "layer0": "minecraft:item/item_frame"
   },
   "overrides": [
+    { "predicate": {"custom_model_data": 130000}, "model": "item/redbricks/red_bricks_normal"},
+	{ "predicate": {"custom_model_data": 160000}, "model": "item/redbricks/red_bricks_colored"},
+	{ "predicate": {"custom_model_data": 190000}, "model": "item/redbricks/red_bricks_black"},
+    { "predicate": {"custom_model_data": 230000}, "model": "item/greenbricks/green_bricks_normal"},
+	{ "predicate": {"custom_model_data": 260000}, "model": "item/greenbricks/green_bricks_colored"},
+	{ "predicate": {"custom_model_data": 290000}, "model": "item/greenbricks/green_bricks_black"},
     { "predicate": {"custom_model_data": 330000}, "model": "item/bluebricks/blue_bricks_normal"},
 	{ "predicate": {"custom_model_data": 360000}, "model": "item/bluebricks/blue_bricks_colored"},
 	{ "predicate": {"custom_model_data": 390000}, "model": "item/bluebricks/blue_bricks_black"}
