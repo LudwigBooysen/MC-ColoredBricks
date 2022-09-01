@@ -1,6 +1,6 @@
 # MC-ColoredBricks
 
-Colored Bricks in Minecraft!
+### Colored Bricks in Minecraft!
 
 **How It Works**:
   - End goal is to add all the color bricks based of minecrafts dye hex colors
