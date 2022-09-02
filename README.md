@@ -5,6 +5,7 @@
 **How It Works**:
   - End goal is to add all the color bricks based of minecrafts dye hex colors
   - I will be adding a normal color, colred one (cement in between is colored) and black cement.
+  - Minecraft Wiki with HEX info for dyes: https://minecraft.fandom.com/wiki/Dye
 
 ![Blue Bricks Colored](https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Images/blue_bricks_colored.png)
 ![Red Bricks Normal](https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Images/red_bricks_normal.png)
