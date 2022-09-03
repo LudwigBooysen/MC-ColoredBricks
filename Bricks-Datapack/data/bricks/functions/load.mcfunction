@@ -1,11 +1,5 @@
 give @p item_frame{display:{Name:'{"text":"Red Bricks","italic":false}'},CustomModelData:130000,EntityTag:{Tags:["redbricksN"],Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:130000}},Invulnerable:1b,Invisible:1b,Fixed:1b,Silent:1b}} 1
-give @p item_frame{display:{Name:'{"text":"Red Bricks Colored","italic":false}'},CustomModelData:160000,EntityTag:{Tags:["redbricksC"],Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:160000}},Invulnerable:1b,Invisible:1b,Fixed:1b,Silent:1b}} 1
-give @p item_frame{display:{Name:'{"text":"Red Bricks Black","italic":false}'},CustomModelData:190000,EntityTag:{Tags:["redbricksB"],Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:190000}},Invulnerable:1b,Invisible:1b,Fixed:1b,Silent:1b}} 1
 
 give @p item_frame{display:{Name:'{"text":"Green Bricks","italic":false}'},CustomModelData:230000,EntityTag:{Tags:["greenbricksN"],Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:230000}},Invulnerable:1b,Invisible:1b,Fixed:1b,Silent:1b}} 1
-give @p item_frame{display:{Name:'{"text":"Green Bricks Colored","italic":false}'},CustomModelData:260000,EntityTag:{Tags:["greenbricksC"],Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:260000}},Invulnerable:1b,Invisible:1b,Fixed:1b,Silent:1b}} 1
-give @p item_frame{display:{Name:'{"text":"Green Bricks Black","italic":false}'},CustomModelData:290000,EntityTag:{Tags:["greenbricksB"],Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:290000}},Invulnerable:1b,Invisible:1b,Fixed:1b,Silent:1b}} 1
 
 give @p item_frame{display:{Name:'{"text":"Blue Bricks","italic":false}'},CustomModelData:330000,EntityTag:{Tags:["bluebricksN"],Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:330000}},Invulnerable:1b,Invisible:1b,Fixed:1b,Silent:1b}} 1
-give @p item_frame{display:{Name:'{"text":"Blue Bricks Colored","italic":false}'},CustomModelData:360000,EntityTag:{Tags:["bluebricksC"],Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:360000}},Invulnerable:1b,Invisible:1b,Fixed:1b,Silent:1b}} 1
-give @p item_frame{display:{Name:'{"text":"Blue Bricks Black","italic":false}'},CustomModelData:390000,EntityTag:{Tags:["bluebricksB"],Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:390000}},Invulnerable:1b,Invisible:1b,Fixed:1b,Silent:1b}} 1
