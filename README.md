@@ -7,7 +7,7 @@
   - I will be adding a normal color, colred one (cement in between is colored) and black cement.
   - Minecraft Wiki with HEX info for dyes: https://minecraft.fandom.com/wiki/Dye
 
-![Colored Bricks (Only RGB Bricks!)](https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Images/pack.png)
+<img align="right" width="240" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Images/pack.png" alt="Colored Bricks (Only RGB Bricks!)"></img>
 
 **Functionality**:
   - I plan to make the normal bricks block colorable,
