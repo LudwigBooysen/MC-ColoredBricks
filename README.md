@@ -9,7 +9,7 @@
   - I will be adding a normal color, colred one (cement in between is colored) and black cement.
   - Minecraft Wiki with HEX info for dyes: https://minecraft.fandom.com/wiki/Dye
 
-<img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/blue_bricks/blue_bricks_black.png" alt="blue_bricks_black"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/blue_bricks/blue_bricks_colored.png" alt="blue_bricks_black"></img><br />
+<img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/red_bricks/red_bricks_black.png" alt="red_bricks_black"><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/blue_bricks/blue_bricks_black.png" alt="blue_bricks_black"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/blue_bricks/blue_bricks_colored.png" alt="blue_bricks_colored"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/blue_bricks/blue_bricks_normal.png" alt="blue_bricks_normal"></img><br />
 
 **Functionality**:
   - I plan to make the normal bricks block colorable,
