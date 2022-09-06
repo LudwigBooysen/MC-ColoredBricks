@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"redbricksUnlocked": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "bricks:redbricksnormal"
+			}
+		}
+	},
+	"rewards": {
+		"function": "bricks:redbricks/craftedn"
+	}
+}

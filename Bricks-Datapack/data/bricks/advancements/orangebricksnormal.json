@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"orangebricksUnlocked": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "bricks:orangebricksnormal"
+			}
+		}
+	},
+	"rewards": {
+		"function": "bricks:orangebricks/craftedn"
+	}
+}

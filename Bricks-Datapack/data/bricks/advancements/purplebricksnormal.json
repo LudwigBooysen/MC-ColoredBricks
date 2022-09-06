@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"purplebricksUnlocked": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "bricks:purplebricksnormal"
+			}
+		}
+	},
+	"rewards": {
+		"function": "bricks:purplebricks/craftedn"
+	}
+}

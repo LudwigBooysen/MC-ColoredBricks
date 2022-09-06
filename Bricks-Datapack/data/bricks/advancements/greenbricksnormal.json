@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"greenbricksUnlocked": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "bricks:greenbricksnormal"
+			}
+		}
+	},
+	"rewards": {
+		"function": "bricks:greenbricks/craftedn"
+	}
+}

@@ -7,18 +7,23 @@
     { "predicate": {"custom_model_data": 130000}, "model": "item/redbricks/red_bricks_normal"},
 	{ "predicate": {"custom_model_data": 160000}, "model": "item/redbricks/red_bricks_colored"},
 	{ "predicate": {"custom_model_data": 190000}, "model": "item/redbricks/red_bricks_black"},
+	
     { "predicate": {"custom_model_data": 230000}, "model": "item/greenbricks/green_bricks_normal"},
 	{ "predicate": {"custom_model_data": 260000}, "model": "item/greenbricks/green_bricks_colored"},
 	{ "predicate": {"custom_model_data": 290000}, "model": "item/greenbricks/green_bricks_black"},
+	
     { "predicate": {"custom_model_data": 330000}, "model": "item/bluebricks/blue_bricks_normal"},
 	{ "predicate": {"custom_model_data": 360000}, "model": "item/bluebricks/blue_bricks_colored"},
 	{ "predicate": {"custom_model_data": 390000}, "model": "item/bluebricks/blue_bricks_black"},
+	
 	{ "predicate": {"custom_model_data": 430000}, "model": "item/purplebricks/purple_bricks_normal"},
 	{ "predicate": {"custom_model_data": 460000}, "model": "item/purplebricks/purple_bricks_colored"},
 	{ "predicate": {"custom_model_data": 490000}, "model": "item/purplebricks/purple_bricks_black"},
+	
 	{ "predicate": {"custom_model_data": 530000}, "model": "item/yellowbricks/yellow_bricks_normal"},
 	{ "predicate": {"custom_model_data": 560000}, "model": "item/yellowbricks/yellow_bricks_colored"},
 	{ "predicate": {"custom_model_data": 590000}, "model": "item/yellowbricks/yellow_bricks_black"},
+	
 	{ "predicate": {"custom_model_data": 630000}, "model": "item/orangebricks/orange_bricks_normal"},
 	{ "predicate": {"custom_model_data": 660000}, "model": "item/orangebricks/orange_bricks_colored"},
 	{ "predicate": {"custom_model_data": 690000}, "model": "item/orangebricks/orange_bricks_black"}

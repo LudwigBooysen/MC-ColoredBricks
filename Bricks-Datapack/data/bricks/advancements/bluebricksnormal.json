@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"bluebricksUnlocked": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "bricks:bluebricksnormal"
+			}
+		}
+	},
+	"rewards": {
+		"function": "bricks:bluebricks/craftedn"
+	}
+}

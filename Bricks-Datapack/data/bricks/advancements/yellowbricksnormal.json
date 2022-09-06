@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"yellowbricksUnlocked": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "bricks:yellowbricksnormal"
+			}
+		}
+	},
+	"rewards": {
+		"function": "bricks:yellowbricks/craftedn"
+	}
+}
