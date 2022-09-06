@@ -4,19 +4,22 @@
 
 <img align="right" width="240" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Images/colored_bricks_rgb.jpeg" alt="Colored Bricks (Screenshot)"></img>
 
-**How It Works**:
-  - End goal is to add all the color bricks based of minecrafts dye hex colors
-  - I will be adding a normal color, colred one (cement in between is colored) and black cement.
-  - Minecraft Wiki with HEX info for dyes: https://minecraft.fandom.com/wiki/Dye
+**My Process**:
+  - End goal is to add all the color bricks based of minecrafts dye hex colors.
+  - I will be adding a normal colored bricks, colored concrete bricks, white and black concrete bricks.
+  - Here is the Minecraft Wiki page with the HEX values for the dyes: https://minecraft.fandom.com/wiki/Dye
 
 <img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/red_bricks/red_bricks_black.png" alt="red_bricks_black"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/green_bricks/green_bricks_black.png" alt="green_bricks_black"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/blue_bricks/blue_bricks_black.png" alt="blue_bricks_black"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/red_bricks/red_bricks_colored.png" alt="red_bricks_colored"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/green_bricks/green_bricks_colored.png" alt="green_bricks_colored"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/blue_bricks/blue_bricks_colored.png" alt="blue_bricks_colored"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/red_bricks/red_bricks_normal.png" alt="red_bricks_normal"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/green_bricks/green_bricks_normal.png" alt="green_bricks_normal"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/blue_bricks/blue_bricks_normal.png" alt="blue_bricks_normal"></img><br />
+<img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/purple_bricks/purple_bricks_black.png" alt="purple_bricks_black"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/yellow_bricks/yellow_bricks_black.png" alt="yellow_bricks_black"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/orange_bricks/orange_bricks_black.png" alt="orange_bricks_black"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/purple_bricks/purple_bricks_colored.png" alt="purple_bricks_colored"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/yellow_bricks/yellow_bricks_colored.png" alt="yellow_bricks_colored"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/orange_bricks/orange_bricks_colored.png" alt="orange_bricks_colored"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/purple_bricks/purple_bricks_normal.png" alt="purple_bricks_normal"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/yellow_bricks/yellow_bricks_normal.png" alt="yellow_bricks_normal"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/orange_bricks/orange_bricks_normal.png" alt="orange_bricks_normal"></img><br />
 
 **Functionality**:
   - I plan to make the normal bricks block colorable,
   - ex: 
-  - 1. you right-click on the bricks with blue dye once it wil color it normally
-    2. right-clicking twice will color the cement as well
-    3. right-clicking with black dye on any twice clicked block will color the cement black
+  - 1. You can craft the normal colored bricks by adding a bricks block and the color dye on a crafting table.
+    2. Right-clicking on the normal colored bricks with the color dye will color the cement to the bricks colors.
+    3. Right-clicking with black dye on any colored cement bricks will change the cement color to the balck version of the colored bricks.
 <img align="right" width="240" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Images/blue_bricks_colored.png" alt="Blue Bricks Colored (Screenshot)"></img>
 
-> This project is just for fun, please feel free to become part of this project!
+I will be handing out a questionaire every week sodat people can vote on witch color bricks I should add in next.
+
+> This project is just for fun, please feel free to take part in this project!
