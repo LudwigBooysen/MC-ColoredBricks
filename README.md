@@ -2,7 +2,7 @@
 
 ### Colored Bricks in Minecraft!
 
-<img align="right" width="240" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Images/colored_bricks_rgb.jpeg" alt="Colored Bricks (Screenshot)"></img>
+<img align="right" width="240" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Images/rgb_pyo.png" alt="Colored Bricks (Screenshot)"></img>
 
 **My Process**:
   - End goal is to add all the color bricks based of minecrafts dye hex colors.
@@ -18,7 +18,7 @@
   - 1. You can craft the normal colored bricks by adding a bricks block and the color dye on a crafting table.
     2. Right-clicking on the normal colored bricks with the color dye will color the cement to the bricks colors.
     3. Right-clicking with black dye on any colored cement bricks will change the cement color to the balck version of the colored bricks.
-<img align="right" width="240" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Images/blue_bricks_colored.png" alt="Blue Bricks Colored (Screenshot)"></img>
+<img align="right" width="240" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Images/colored_bricks_rgb.jpeg" alt="Blue Bricks Colored (Screenshot)"></img>
 
 I will be handing out a questionaire every week sodat people can vote on witch color bricks I should add in next.
 
