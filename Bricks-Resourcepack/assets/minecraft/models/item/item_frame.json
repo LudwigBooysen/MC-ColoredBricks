@@ -26,6 +26,10 @@
 	
 	{ "predicate": {"custom_model_data": 630000}, "model": "item/orangebricks/orange_bricks_normal"},
 	{ "predicate": {"custom_model_data": 660000}, "model": "item/orangebricks/orange_bricks_colored"},
-	{ "predicate": {"custom_model_data": 690000}, "model": "item/orangebricks/orange_bricks_black"}
+	{ "predicate": {"custom_model_data": 690000}, "model": "item/orangebricks/orange_bricks_black"},
+	  
+	{ "predicate": {"custom_model_data": 730000}, "model": "item/cyanbricks/cyan_bricks_normal"},
+	{ "predicate": {"custom_model_data": 760000}, "model": "item/cyanbricks/cyan_bricks_colored"},
+	{ "predicate": {"custom_model_data": 790000}, "model": "item/cyanbricks/cyan_bricks_black"}
  ]
 }
