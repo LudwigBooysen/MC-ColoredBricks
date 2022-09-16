@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"magentabricksUnlocked": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "bricks:magentabricksnormal"
+			}
+		}
+	},
+	"rewards": {
+		"function": "bricks:magentabricks/craftedn"
+	}
+}

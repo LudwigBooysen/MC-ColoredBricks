@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"cyanbricksUnlocked": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "bricks:cyanbricksnormal"
+			}
+		}
+	},
+	"rewards": {
+		"function": "bricks:cyanbricks/craftedn"
+	}
+}

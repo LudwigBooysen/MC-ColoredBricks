@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bricks"
+    },
+    [
+	  {
+	    "item": "minecraft:ink_sac"
+	  },
+	  {
+	    "item": "minecraft:black_dye"
+	  }
+	]
+  ],
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

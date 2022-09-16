@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"blackbricksUnlocked": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "bricks:blackbricksnormal"
+			}
+		}
+	},
+	"rewards": {
+		"function": "bricks:blackbricks/craftedn"
+	}
+}
