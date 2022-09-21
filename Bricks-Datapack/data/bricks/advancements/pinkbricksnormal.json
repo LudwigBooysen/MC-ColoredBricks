@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"pinkbricksUnlocked": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "bricks:pinkbricksnormal"
+			}
+		}
+	},
+	"rewards": {
+		"function": "bricks:pinkbricks/craftedn"
+	}
+}

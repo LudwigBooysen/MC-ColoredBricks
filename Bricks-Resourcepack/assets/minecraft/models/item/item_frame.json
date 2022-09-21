@@ -38,6 +38,18 @@
 	
 	{ "predicate": {"custom_model_data": 930000}, "model": "item/magentabricks/magenta_bricks_normal"},
 	{ "predicate": {"custom_model_data": 960000}, "model": "item/magentabricks/magenta_bricks_colored"},
-	{ "predicate": {"custom_model_data": 990000}, "model": "item/magentabricks/magenta_bricks_black"}
+	{ "predicate": {"custom_model_data": 990000}, "model": "item/magentabricks/magenta_bricks_black"},
+	
+	{ "predicate": {"custom_model_data": 991300}, "model": "item/lightbluebricks/light_blue_bricks_normal"},
+	{ "predicate": {"custom_model_data": 991600}, "model": "item/lightbluebricks/light_blue_bricks_colored"},
+	{ "predicate": {"custom_model_data": 991900}, "model": "item/lightbluebricks/light_blue_bricks_black"},
+
+	{ "predicate": {"custom_model_data": 992300}, "model": "item/graybricks/gray_bricks_normal"},
+	{ "predicate": {"custom_model_data": 992600}, "model": "item/graybricks/gray_bricks_colored"},
+	{ "predicate": {"custom_model_data": 992900}, "model": "item/graybricks/gray_bricks_black"},
+	
+	{ "predicate": {"custom_model_data": 993300}, "model": "item/pinkbricks/pink_bricks_normal"},
+	{ "predicate": {"custom_model_data": 993600}, "model": "item/pinkbricks/pink_bricks_colored"},
+	{ "predicate": {"custom_model_data": 993900}, "model": "item/pinkbricks/pink_bricks_black"}
  ]
 }

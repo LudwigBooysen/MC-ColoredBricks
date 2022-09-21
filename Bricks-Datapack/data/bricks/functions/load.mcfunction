@@ -15,3 +15,9 @@ give @p item_frame{display:{Name:'{"text":"Black Bricks","italic":false}'},Custo
 give @p item_frame{display:{Name:'{"text":"Cyan Bricks","italic":false}'},CustomModelData:830000,EntityTag:{Tags:["cyanbricksN","bricks"],Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:830000}},Invulnerable:1b,Invisible:1b,Fixed:1b,Silent:1b}} 1
 
 give @p item_frame{display:{Name:'{"text":"Magenta Bricks","italic":false}'},CustomModelData:930000,EntityTag:{Tags:["magentabricksN","bricks"],Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:930000}},Invulnerable:1b,Invisible:1b,Fixed:1b,Silent:1b}} 1
+
+give @p item_frame{display:{Name:'{"text":"Light Blue Bricks","italic":false}'},CustomModelData:991300,EntityTag:{Tags:["lightbluebricksN","bricks"],Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:991300}},Invulnerable:1b,Invisible:1b,Fixed:1b,Silent:1b}} 1
+
+give @p item_frame{display:{Name:'{"text":"Gray Bricks","italic":false}'},CustomModelData:992300,EntityTag:{Tags:["graybricksN","bricks"],Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:992300}},Invulnerable:1b,Invisible:1b,Fixed:1b,Silent:1b}} 1
+
+give @p item_frame{display:{Name:'{"text":"Pink Bricks","italic":false}'},CustomModelData:993300,EntityTag:{Tags:["pinkbricksN","bricks"],Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:993300}},Invulnerable:1b,Invisible:1b,Fixed:1b,Silent:1b}} 1

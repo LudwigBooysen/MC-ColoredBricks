@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"graybricksUnlocked": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "bricks:graybricksnormal"
+			}
+		}
+	},
+	"rewards": {
+		"function": "bricks:graybricks/craftedn"
+	}
+}

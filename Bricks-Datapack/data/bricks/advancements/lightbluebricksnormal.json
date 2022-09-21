@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"lightbluebricksUnlocked": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "bricks:lightbluebricksnormal"
+			}
+		}
+	},
+	"rewards": {
+		"function": "bricks:lightbluebricks/craftedn"
+	}
+}

@@ -34,5 +34,17 @@ execute as @e[type=minecraft:item_frame,tag=magentabricksN] at @s run function b
 execute as @e[type=minecraft:item_frame,tag=magentabricksC] at @s run function bricks:magentabricks/placec
 execute as @e[type=minecraft:item_frame,tag=magentabricksB] at @s run function bricks:magentabricks/placeb
 
+execute as @e[type=minecraft:item_frame,tag=lightbluebricksN] at @s run function bricks:lightbluebricks/placen
+execute as @e[type=minecraft:item_frame,tag=lightbluebricksC] at @s run function bricks:lightbluebricks/placec
+execute as @e[type=minecraft:item_frame,tag=lightbluebricksB] at @s run function bricks:lightbluebricks/placeb
+
+execute as @e[type=minecraft:item_frame,tag=graybricksN] at @s run function bricks:graybricks/placen
+execute as @e[type=minecraft:item_frame,tag=graybricksC] at @s run function bricks:graybricks/placec
+execute as @e[type=minecraft:item_frame,tag=graybricksB] at @s run function bricks:graybricks/placeb
+
+execute as @e[type=minecraft:item_frame,tag=pinkbricksN] at @s run function bricks:pinkbricks/placen
+execute as @e[type=minecraft:item_frame,tag=pinkbricksC] at @s run function bricks:pinkbricks/placec
+execute as @e[type=minecraft:item_frame,tag=pinkbricksB] at @s run function bricks:pinkbricks/placeb
+
 execute as @e[type=minecraft:item_frame,tag=bricks] at @s run function bricks:bricks/place
 execute as @e[type=minecraft:armor_stand,tag=bricks] at @s unless block ~ ~ ~ minecraft:barrier run function bricks:bricks/remove
