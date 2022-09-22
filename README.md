@@ -1,26 +1,31 @@
-# MC-ColoredBricks
+### Features
 
-### Colored Bricks in Minecraft!
+- Customizeable textures and functions, beacuse of the easy to understand and open source code.
+- How my minecraft datapack idea works and my goals for the project
+- Original sources for where I got the information on the minecraft facts.
+- Formulas and calculated shading tricks for making the original texture.
+- Steps for contribution and pull request procedures.
+- Issuing format and recommendations.
 
-<img align="right" width="240" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Images/rgb_pyo.png" alt="Colored Bricks (Screenshot)"></img>
+# Minecraft Colored Bricks
 
-**My Process**:
-  - End goal is to add all the color bricks based of minecrafts dye hex colors.
-  - I will be adding a normal colored bricks, colored concrete bricks, white and black concrete bricks.
-  - Here is the Minecraft Wiki page with the HEX values for the dyes: https://minecraft.fandom.com/wiki/Dye
+![](https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Images/pack.png)
 
-<img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/red_bricks/red_bricks_black.png" alt="red_bricks_black"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/green_bricks/green_bricks_black.png" alt="green_bricks_black"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/blue_bricks/blue_bricks_black.png" alt="blue_bricks_black"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/red_bricks/red_bricks_colored.png" alt="red_bricks_colored"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/green_bricks/green_bricks_colored.png" alt="green_bricks_colored"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/blue_bricks/blue_bricks_colored.png" alt="blue_bricks_colored"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/red_bricks/red_bricks_normal.png" alt="red_bricks_normal"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/green_bricks/green_bricks_normal.png" alt="green_bricks_normal"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/blue_bricks/blue_bricks_normal.png" alt="blue_bricks_normal"></img><br />
-<img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/purple_bricks/purple_bricks_black.png" alt="purple_bricks_black"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/yellow_bricks/yellow_bricks_black.png" alt="yellow_bricks_black"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/orange_bricks/orange_bricks_black.png" alt="orange_bricks_black"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/purple_bricks/purple_bricks_colored.png" alt="purple_bricks_colored"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/yellow_bricks/yellow_bricks_colored.png" alt="yellow_bricks_colored"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/orange_bricks/orange_bricks_colored.png" alt="orange_bricks_colored"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/purple_bricks/purple_bricks_normal.png" alt="purple_bricks_normal"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/yellow_bricks/yellow_bricks_normal.png" alt="yellow_bricks_normal"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/orange_bricks/orange_bricks_normal.png" alt="orange_bricks_normal"></img><br />
-<img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/black_bricks/black_bricks_black.png" alt="black_bricks_black"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/cyan_bricks/cyan_bricks_black.png" alt="cyan_bricks_black"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/magenta_bricks/magenta_bricks_black.png" alt="magenta_bricks_black"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/black_bricks/black_bricks_colored.png" alt="black_bricks_colored"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/cyan_bricks/cyan_bricks_colored.png" alt="cyan_bricks_colored"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/magenta_bricks/magenta_bricks_colored.png" alt="magenta_bricks_colored"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/black_bricks/black_bricks_normal.png" alt="black_bricks_normal"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/cyan_bricks/cyan_bricks_normal.png" alt="cyan_bricks_normal"></img><img align="left" width="16" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Bricks-Resourcepack/assets/minecraft/textures/custom/magenta_bricks/magenta_bricks_normal.png" alt="magenta_bricks_normal"></img><br />
+![](https://img.shields.io/github/stars/ludwigbooysen/MC-ColoredBricks.svg) ![](https://img.shields.io/github/forks/ludwigbooysen/MC-ColoredBricks.svg) ![](https://img.shields.io/github/issues/ludwigbooysen/MC-ColoredBricks.svg) 
 
-**Functionality**:
-  - I plan to make the normal bricks block colorable,
-  - ex: 
-  - 1. You can craft the normal colored bricks by adding a bricks block and the color dye on a crafting table.
-    2. Right-clicking on the normal colored bricks with the color dye will color the cement to the bricks colors.
-    3. Right-clicking with black dye on any colored cement bricks will change the cement color to the balck version of the colored bricks.
-<img align="right" width="240" src="https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Images/colored_bricks_rgb.jpeg" alt="Blue Bricks Colored (Screenshot)"></img>
+**INDEX**
 
-I will be handing out a questionaire every week sodat people can vote on witch color bricks I should add in next.
+[TOC]
 
-> This project is just for fun, please feel free to take part in this project!
+### Formula
+
+The default minecraft bricks block texture has a set shading based of the red HEX value color, therefore I could use the normal values of the color and work out a relation betwwen the shading in the colors.
+
+Here is the formula in a step-by-step manner :
+(S = shading; b = Basecolor (Value of HEX))
+$$ S1 = b$$
+$$ S2 = S1 - 8$$
+$$ S3 = S2 - 9$$
+$$ S4 = S3 - 6$$
+$$ S5 = S4 - 6$$
+$$ S6 = S5 - 3$$
