@@ -57,11 +57,11 @@ I used their statement covering all the colored dyes and their default HEX value
 The default minecraft bricks block texture has a set shading based of the red HEX value color, therefore I could use the normal values of the color and work out a relation betwwen the shading in the colors.
 
 Here is the formula in a step-by-step manner :
-(S = shading; b = Basecolor (Value of HEX))
-![](https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Images/pack.png)
-`S1 = b`
-`S2 = S1 - 8`
-`S3 = S2 - 9`
-`S4 = S3 - 6`
-`S5 = S4 - 6`
-`S6 = S5 - 3`
+(S = shading; b = Basecolor (Value of HEX)) <br />
+![](https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Images/pack.png) <br />
+`S1 = b` <br />
+`S2 = S1 - 8` <br />
+`S3 = S2 - 9` <br />
+`S4 = S3 - 6` <br />
+`S5 = S4 - 6` <br />
+`S6 = S5 - 3` <br />
