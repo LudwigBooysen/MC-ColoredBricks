@@ -52,6 +52,10 @@ You will be able to right-click on the already colored, and placed, bricks to co
 They include a [dyes section](https://minecraft.fandom.com/wiki/Dye) covering everything from obtaining them too even their Color values, Sounds and Achievements!
 I used their statement covering all the colored dyes and their default HEX values.
 
+|Color|HEX|
+|-----------|---------|
+|Red|`#B02E26`|
+
 ### Formula
 ##### ➕➖➗
 The default minecraft bricks block texture has a set shading based of the red HEX value color, therefore I could use the normal values of the color and work out a relation betwwen the shading in the colors.
@@ -65,3 +69,23 @@ Here is the formula in a step-by-step manner :
 `S4 = S3 - 6` <br />
 `S5 = S4 - 6` <br />
 `S6 = S5 - 3` <br />
+
+### How to contribute
+
+Feel free to leave me suggestions for the code or even commment on them. You can contact me any way you prefer, check [My Webite](https://github.ludwigbooysen.io/index.html) for more contact info!
+If you want this project to expand or be cusotmized to your choice, feel free to contact me about that as well. (NOTE: Donating will prioritize your order!)
+Requesting a pull request might not even be need as, as if now, the project only has one branch but my response time is usally between 4-8 hours depending on the day, obviously.
+
+### Issue format
+
+`BUG / PROBLEM: <message> <br />
+<br />
+REASON (if known): <message> <br />
+<br />
+HOW YOU FOUND IT: <message> <br />
+<br />
+RECOMMENDATION (optional): <message> <br />`
+
+This format is recommened as it helps define, verify and help with filtering.
+
+LABEL YOUR ISSUES CORRECTLY!
