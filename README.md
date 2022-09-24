@@ -24,6 +24,8 @@
   - [Suggestions](#Suggestions)
 - [Sources](#Sources)
 - [Formula](#Formula)
+- [How to contribute](#How-to-contribute)
+- [Issue format](#Issue-format)
 
 ### How it works
 ##### ❓❓❓
@@ -54,7 +56,18 @@ I used their statement covering all the colored dyes and their default HEX value
 
 |Color|HEX|
 |-----------|---------|
-|Red|`#B02E26`|
+|Red|![#B02E26](https://via.placeholder.com/15/B02E26/B02E26.png) `#B02E26`|
+|Green|![#5E7C16](https://via.placeholder.com/15/5E7C16/5E7C16.png) `#5E7C16`|
+|Blue|![#3C44AA](https://via.placeholder.com/15/3C44AA/3C44AA.png) `#3C44AA`|
+|Purple|![#8932B8](https://via.placeholder.com/15/8932B8/8932B8.png) `#8932B8`|
+|Yellow|![#FED83D](https://via.placeholder.com/15/FED83D/FED83D.png) `#FED83D`|
+|Orange|![#F9801D](https://via.placeholder.com/15/F9801D/F9801D.png) `#F9801D`|
+|Black|![#1D1D21](https://via.placeholder.com/15/1D1D21/1D1D21.png) `#1D1D21`|
+|Magenta|![#C74EBD](https://via.placeholder.com/15/C74EBD/C74EBD.png) `#C74EBD`|
+|Cyan|![#169C9C](https://via.placeholder.com/15/169C9C/169C9C.png) `#169C9C`|
+|Gray|![#474F52](https://via.placeholder.com/15/474F52/474F52.png) `#474F52`|
+|Pink|![#F38BAA](https://via.placeholder.com/15/F38BAA/F38BAA.png) `#F38BAA`|
+|Light Blue|![#3AB3DA](https://via.placeholder.com/15/3AB3DA/3AB3DA.png) `#3AB3DA`|
 
 ### Formula
 ##### ➕➖➗
