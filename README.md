@@ -9,7 +9,7 @@
 
 # Minecraft Colored Bricks
 #### 🧱 🧱 🧱
-![](https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Images/pack.png)
+![](https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Images/colored_bricks_rgb.jpeg)
 
 ![](https://img.shields.io/github/stars/ludwigbooysen/MC-ColoredBricks.svg) ![](https://img.shields.io/github/forks/ludwigbooysen/MC-ColoredBricks.svg) ![](https://img.shields.io/github/issues/ludwigbooysen/MC-ColoredBricks.svg) 
 
@@ -30,7 +30,7 @@
 ### How it works
 ##### ❓❓❓
 ##### Crafting
-You will be able to craft the different colored bricks by using their spesific color dye.
+You will be able to craft the different colored bricks by using their similar color dye.
 (Crafting Image)
 
 ##### Functionality
@@ -52,13 +52,13 @@ You will be able to right-click on the already colored, and placed, bricks to co
 ##### 📃📃📃
 ##### [Minecraft Wiki Fandom](https://minecraft.fandom.com/wiki) 
 They include a [dyes section](https://minecraft.fandom.com/wiki/Dye) covering everything from obtaining them too even their Color values, Sounds and Achievements!
-I used their statement covering all the colored dyes and their default HEX values.
+I used their statement about all the colored dyes and their default HEX values.
 
 |Color|HEX|
 |-----------|---------|
-|Red|![#B02E26](https://via.placeholder.com/15/B02E26/B02E26.png) `#B02E26`|
-|Green|![#5E7C16](https://via.placeholder.com/15/5E7C16/5E7C16.png) `#5E7C16`|
-|Blue|![#3C44AA](https://via.placeholder.com/15/3C44AA/3C44AA.png) `#3C44AA`|
+|Red|![#B02E26](https://via.placeholder.com/15/B02E26/B02E26.png) `#B02E26` ![Red Bricks Normal](https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/red_bricks/red_bricks_normal.png) ![Red Bricks Colored](https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/red_bricks/red_bricks_colored.png) ![Red Bricks Black](https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/red_bricks/red_bricks_black.png)|
+|Green|![#5E7C16](https://via.placeholder.com/15/5E7C16/5E7C16.png) `#5E7C16` ![Green Bricks Normal](https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/green_bricks/green_bricks_normal.png) ![Green Bricks Colored](https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/green_bricks/green_bricks_colored.png) ![Green Bricks Black](https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/green_bricks/green_bricks_black.png)|
+|Blue|![#3C44AA](https://via.placeholder.com/15/3C44AA/3C44AA.png) `#3C44AA` ![Blue Bricks Normal](https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/blue_bricks/blue_bricks_normal.png) ![Blue Bricks Colored](https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/blue_bricks/blue_bricks_colored.png) ![Blue Bricks Black](https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/blue_bricks/blue_bricks_black.png)|
 |Purple|![#8932B8](https://via.placeholder.com/15/8932B8/8932B8.png) `#8932B8`|
 |Yellow|![#FED83D](https://via.placeholder.com/15/FED83D/FED83D.png) `#FED83D`|
 |Orange|![#F9801D](https://via.placeholder.com/15/F9801D/F9801D.png) `#F9801D`|
