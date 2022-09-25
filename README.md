@@ -55,8 +55,8 @@ They include a [dyes section](https://minecraft.fandom.com/wiki/Dye) covering ev
 I used their statement about all the colored dyes and their default HEX values.
 
 |Color|HEX|
-|-----------|---------|
-|Red|![#B02E26](https://via.placeholder.com/15/B02E26/B02E26.png) `#B02E26`| <img src="https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/red_bricks/red_bricks_normal.svg" alt="Red Bricks Normal" width="40" height="40"/>
+|-----------|-----------|
+|Red|![#B02E26](https://via.placeholder.com/15/B02E26/B02E26.png) `#B02E26` ![Red Bricks Normal](https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/red_bricks)|
 |Green|![#5E7C16](https://via.placeholder.com/15/5E7C16/5E7C16.png) `#5E7C16` ![](https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/green_bricks/green_bricks_normal.png) ![](https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/green_bricks/green_bricks_colored.png) ![](https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/green_bricks/green_bricks_black.png)|
 |Blue|![#3C44AA](https://via.placeholder.com/15/3C44AA/3C44AA.png) `#3C44AA` ![](https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/blue_bricks/blue_bricks_normal.png) ![](https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/blue_bricks/blue_bricks_colored.png) ![](https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/blue_bricks/blue_bricks_black.png)|
 |Purple|![#8932B8](https://via.placeholder.com/15/8932B8/8932B8.png) `#8932B8`|
@@ -91,13 +91,13 @@ Requesting a pull request might not even be need as, as if now, the project only
 
 ### Issue format
 
-`BUG / PROBLEM: <message> <br />
-<br />
-REASON (if known): <message> <br />
-<br />
-HOW YOU FOUND IT: <message> <br />
-<br />
-RECOMMENDATION (optional): <message> <br />`
+`BUG / PROBLEM: <message>\
+
+REASON (if known): <message>
+
+HOW YOU FOUND IT: <message>
+
+RECOMMENDATION (optional): <message>` <br />
 
 This format is recommened as it helps define, verify and help with filtering.
 
