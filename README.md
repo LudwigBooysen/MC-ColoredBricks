@@ -56,9 +56,9 @@ I used their statement about all the colored dyes and their default HEX values.
 
 |Color|HEX|
 |-----------|-----------|
-|Red|![#B02E26](https://via.placeholder.com/15/B02E26/B02E26.png) `#B02E26` ![Red Bricks Normal](https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/red_bricks/red_bricks.png)|
-|Green|![#5E7C16](https://via.placeholder.com/15/5E7C16/5E7C16.png) `#5E7C16` ![](https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/green_bricks/green_bricks_normal.png) ![](https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/green_bricks/green_bricks_colored.png) ![](https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/green_bricks/green_bricks_black.png)|
-|Blue|![#3C44AA](https://via.placeholder.com/15/3C44AA/3C44AA.png) `#3C44AA` ![](https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/blue_bricks/blue_bricks_normal.png) ![](https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/blue_bricks/blue_bricks_colored.png) ![](https://github.com/LudwigBooysen/MC-ColoredBricks/tree/main/Bricks-Resourcepack/assets/minecraft/textures/custom/blue_bricks/blue_bricks_black.png)|
+|Red|![#B02E26](https://via.placeholder.com/15/B02E26/B02E26.png) `#B02E26`|
+|Green|![#5E7C16](https://via.placeholder.com/15/5E7C16/5E7C16.png) `#5E7C16`|
+|Blue|![#3C44AA](https://via.placeholder.com/15/3C44AA/3C44AA.png) `#3C44AA`|
 |Purple|![#8932B8](https://via.placeholder.com/15/8932B8/8932B8.png) `#8932B8`|
 |Yellow|![#FED83D](https://via.placeholder.com/15/FED83D/FED83D.png) `#FED83D`|
 |Orange|![#F9801D](https://via.placeholder.com/15/F9801D/F9801D.png) `#F9801D`|
