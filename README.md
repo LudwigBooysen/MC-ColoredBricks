@@ -11,7 +11,7 @@
 #### 🧱 🧱 🧱
 ![](https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Images/colored_bricks_rgb.jpeg)
 
-![](https://img.shields.io/github/stars/ludwigbooysen/MC-ColoredBricks.svg) ![](https://img.shields.io/github/forks/ludwigbooysen/MC-ColoredBricks.png.svg) ![](https://img.shields.io/github/issues/ludwigbooysen/MC-ColoredBricks.svg) 
+![](https://img.shields.io/github/stars/ludwigbooysen/MC-ColoredBricks.svg) ![](https://img.shields.io/github/forks/ludwigbooysen/MC-ColoredBricks.svg) ![](https://img.shields.io/github/issues/ludwigbooysen/MC-ColoredBricks.svg) 
 
 **INDEX**
 
@@ -91,13 +91,13 @@ Requesting a pull request might not even be need as, as if now, the project only
 
 ### Issue format
 
-`BUG / PROBLEM: message
-
-REASON (if known): message
-
-HOW YOU FOUND IT: message
-
-RECOMMENDATION (optional): message` <br />
+> BUG / PROBLEM: message
+>
+> REASON (if known): message
+>
+> HOW YOU FOUND IT: message
+>
+> RECOMMENDATION (optional): message
 
 This format is recommened as it helps define, verify and help with filtering.
 
