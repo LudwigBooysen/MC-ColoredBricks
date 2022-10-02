@@ -9,7 +9,7 @@
 
 # Minecraft Colored Bricks
 #### 🧱 🧱 🧱
-![](https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Images/colored_bricks_rgb.jpeg)
+![](https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Images/all_colors.png)
 
 ![](https://img.shields.io/github/stars/ludwigbooysen/MC-ColoredBricks.svg) ![](https://img.shields.io/github/forks/ludwigbooysen/MC-ColoredBricks.svg) ![](https://img.shields.io/github/issues/ludwigbooysen/MC-ColoredBricks.svg) 
 
@@ -23,6 +23,7 @@
   - [Goals](#Goals)
   - [Suggestions](#Suggestions)
 - [Sources](#Sources)
+  - [Minecraft Wiki Fandom](#Minecraft-Wiki-Fandom)
 - [Formula](#Formula)
 - [How to contribute](#How-to-contribute)
 - [Issue format](#Issue-format)
@@ -69,6 +70,8 @@ I used their statement about all the colored dyes and their default HEX values.
 |Pink|![#F38BAA](https://via.placeholder.com/15/F38BAA/F38BAA.png) `#F38BAA`|
 |Light Blue|![#3AB3DA](https://via.placeholder.com/15/3AB3DA/3AB3DA.png) `#3AB3DA`|
 
+> A questionare will be handed out every week to choose the next 3 color bricks wich I will be adding
+
 ### Formula
 ##### ➕➖➗
 The default minecraft bricks block texture has a set shading based of the red HEX value color, therefore I could use the normal values of the color and work out a relation betwwen the shading in the colors.
@@ -91,13 +94,17 @@ Requesting a pull request might not even be need as, as if now, the project only
 
 ### Issue format
 
-> BUG / PROBLEM: message
+> BUG / PROBLEM: 
+> (report) (provide image if possible)
 >
-> REASON (if known): message
+> REASON (if known):
+> (reason)
 >
-> HOW YOU FOUND IT: message
+> HOW YOU FOUND IT:
+> (explaination)
 >
-> RECOMMENDATION (optional): message
+> RECOMMENDATION (optional):
+> (suggestion)
 
 This format is recommened as it helps define, verify and help with filtering.
 
