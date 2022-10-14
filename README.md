@@ -56,7 +56,7 @@ They include a [dyes section](https://minecraft.fandom.com/wiki/Dye) covering ev
 I used their statement about all the colored dyes and their default HEX values.
 
 |Color|HEX|
-|-----------|-----------|
+|:----------|------------------:|
 |Black|![#1D1D21](https://via.placeholder.com/15/1D1D21/1D1D21.png) `#1D1D21` - [x]|
 |Red|![#B02E26](https://via.placeholder.com/15/B02E26/B02E26.png) `#B02E26` - [x]|
 |Green|![#5E7C16](https://via.placeholder.com/15/5E7C16/5E7C16.png) `#5E7C16` - [x]|
