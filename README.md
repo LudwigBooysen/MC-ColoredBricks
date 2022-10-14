@@ -55,24 +55,24 @@ You will be able to right-click on the already colored, and placed, bricks to co
 They include a [dyes section](https://minecraft.fandom.com/wiki/Dye) covering everything from obtaining them too even their Color values, Sounds and Achievements!
 I used their statement about all the colored dyes and their default HEX values.
 
-|Color|HEX|
-|:----------|------------------:|
-|Black|![#1D1D21](https://via.placeholder.com/15/1D1D21/1D1D21.png) `#1D1D21` - [x]|
-|Red|![#B02E26](https://via.placeholder.com/15/B02E26/B02E26.png) `#B02E26` - [x]|
-|Green|![#5E7C16](https://via.placeholder.com/15/5E7C16/5E7C16.png) `#5E7C16` - [x]|
-|Brown|![#835432](https://via.placeholder.com/15/835432/835432.png) `#835432` - [ ]|
-|Blue|![#3C44AA](https://via.placeholder.com/15/3C44AA/3C44AA.png) `#3C44AA` - [x]|
-|Purple|![#8932B8](https://via.placeholder.com/15/8932B8/8932B8.png) `#8932B8` - [x]|
-|Cyan|![#169C9C](https://via.placeholder.com/15/169C9C/169C9C.png) `#169C9C` - [x]|
-|Light Gray|![#9D9D97](https://via.placeholder.com/15/9D9D97/9D9D97.png) `#9D9D97` - [ ]|
-|Gray|![#474F52](https://via.placeholder.com/15/474F52/474F52.png) `#474F52` - [x]|
-|Pink|![#F38BAA](https://via.placeholder.com/15/F38BAA/F38BAA.png) `#F38BAA` - [x]|
-|Lime|![#80C71F](https://via.placeholder.com/15/80C71F/80C71F.png) `#80C71F` - [ ]|
-|Yellow|![#FED83D](https://via.placeholder.com/15/FED83D/FED83D.png) `#FED83D` - [x]|
-|Light Blue|![#3AB3DA](https://via.placeholder.com/15/3AB3DA/3AB3DA.png) `#3AB3DA` - [x]|
-|Magenta|![#C74EBD](https://via.placeholder.com/15/C74EBD/C74EBD.png) `#C74EBD` - [x]|
-|Orange|![#F9801D](https://via.placeholder.com/15/F9801D/F9801D.png) `#F9801D` - [x]|
-|White|![#F9FFFE](https://via.placeholder.com/15/F9FFFE/F9FFFE.png) `#F9FFFE` - [ ]|
+|Color|HEX|State|
+|:-----|:---:|-----:|
+|Black|![#1D1D21](https://via.placeholder.com/15/1D1D21/1D1D21.png) `#1D1D21` | Added|
+|Red|![#B02E26](https://via.placeholder.com/15/B02E26/B02E26.png) `#B02E26`| Added|
+|Green|![#5E7C16](https://via.placeholder.com/15/5E7C16/5E7C16.png) `#5E7C16`| Added|
+|Brown|![#835432](https://via.placeholder.com/15/835432/835432.png) `#835432`| In Progress|
+|Blue|![#3C44AA](https://via.placeholder.com/15/3C44AA/3C44AA.png) `#3C44AA`| Added|
+|Purple|![#8932B8](https://via.placeholder.com/15/8932B8/8932B8.png) `#8932B8`| Added|
+|Cyan|![#169C9C](https://via.placeholder.com/15/169C9C/169C9C.png) `#169C9C`| Added|
+|Light Gray|![#9D9D97](https://via.placeholder.com/15/9D9D97/9D9D97.png) `#9D9D97`| In Progress|
+|Gray|![#474F52](https://via.placeholder.com/15/474F52/474F52.png) `#474F52`| Added|
+|Pink|![#F38BAA](https://via.placeholder.com/15/F38BAA/F38BAA.png) `#F38BAA`| Added|
+|Lime|![#80C71F](https://via.placeholder.com/15/80C71F/80C71F.png) `#80C71F`| In Progress|
+|Yellow|![#FED83D](https://via.placeholder.com/15/FED83D/FED83D.png) `#FED83D`| Added|
+|Light Blue|![#3AB3DA](https://via.placeholder.com/15/3AB3DA/3AB3DA.png) `#3AB3DA`| Added|
+|Magenta|![#C74EBD](https://via.placeholder.com/15/C74EBD/C74EBD.png) `#C74EBD`| Added|
+|Orange|![#F9801D](https://via.placeholder.com/15/F9801D/F9801D.png) `#F9801D`| Added|
+|White|![#F9FFFE](https://via.placeholder.com/15/F9FFFE/F9FFFE.png) `#F9FFFE`| Soon|
 
 > A questionare will be handed out every week to choose the next 3 color bricks wich I will be adding
 
