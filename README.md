@@ -31,18 +31,19 @@
 ### How it works
 ##### ❓❓❓
 ##### Crafting
-You will be able to craft the different colored bricks by using their similar color dye.
-(Crafting Image)
+You will be able to craft the different colored bricks by using their similar color dye. <br>
+(Missing Crafting Image)
 
 ##### Functionality
-You will be able to right-click on the already colored, and placed, bricks to color it's concrete color and after that change it's concrete color to black, giving it an amazing decoration style!
-(Demonstration GIF)
+You will be able to right-click on the already colored, and placed, bricks to color it's concrete color and after that change it's concrete color to black, giving it an amazing decoration style! <br>
+(Missing Demonstration GIF)
 
 ##### Goals
 ###### 🎯🎯
 1. Adding all the color bricks options
 2. Multiple color concrete options (ex. redbricks with green concrete)
 3. Improve on functionality
+4. Expand to mod packs (Java)
 
 ##### Suggestions
 ###### 🤷🏻‍♂️🤷🏻‍♂️
@@ -83,12 +84,12 @@ The default minecraft bricks block texture has a set shading based of the red HE
 Here is the formula in a step-by-step manner :
 (S = shading; b = Basecolor (Value of HEX)) <br />
 ![](https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Images/pack.png) <br />
-`S1 = b` <br />
-`S2 = S1 - 8` <br />
-`S3 = S2 - 9` <br />
-`S4 = S3 - 6` <br />
-`S5 = S4 - 6` <br />
-`S6 = S5 - 3` <br />
+`S1 = b` <br>
+`S2 = S1 - 8` <br>
+`S3 = S2 - 9` <br>
+`S4 = S3 - 6` <br>
+`S5 = S4 - 6` <br>
+`S6 = S5 - 3` <br>
 
 ### How to contribute
 
