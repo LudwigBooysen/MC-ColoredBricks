@@ -92,7 +92,7 @@ Here is the formula in a step-by-step manner :
 
 ### How to contribute
 
-Feel free to leave me suggestions for the code or even commment on them. You can contact me any way you prefer, check [My Webite](https://ludwigbooysen.github.io/index.html) for more contact info!
+Feel free to leave me suggestions for the code or even commment on them. You can contact me any way you prefer, check <a href="https://ludwigbooysen.github.io/index.html" target="_blank">My Webite</a> for more contact info!
 If you want this project to expand or be cusotmized to your choice, feel free to contact me about that as well. (NOTE: Donating will prioritize your order!)
 Requesting a pull request might not even be need as, as if now, the project only has one branch but my response time is usally between 4-8 hours depending on the day, obviously.
 
