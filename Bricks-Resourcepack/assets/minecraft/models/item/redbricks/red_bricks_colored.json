@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/red_bricks/red_bricks_colored",
-		"particle": "custom/red_bricks/red_bricks_colored"
+		"0": "block/red_bricks/red_bricks_colored",
+		"particle": "block/red_bricks/red_bricks_colored"
 	},
 	"elements": [
 		{

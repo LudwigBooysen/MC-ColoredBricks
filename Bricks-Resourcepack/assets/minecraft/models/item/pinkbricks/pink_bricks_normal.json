@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/pink_bricks/pink_bricks_normal",
-		"particle": "custom/pink_bricks/pink_bricks_normal"
+		"0": "block/pink_bricks/pink_bricks_normal",
+		"particle": "block/pink_bricks/pink_bricks_normal"
 	},
 	"elements": [
 		{

@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/magenta_bricks/magenta_bricks_colored",
-		"particle": "custom/magenta_bricks/magenta_bricks_colored"
+		"0": "block/magenta_bricks/magenta_bricks_colored",
+		"particle": "block/magenta_bricks/magenta_bricks_colored"
 	},
 	"elements": [
 		{

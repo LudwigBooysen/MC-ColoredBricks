@@ -1,6 +1,6 @@
 {
-        "pack": {
-                "pack_format": 15,
-                "description": "Coloured Bricks."
-        }
+	"pack": {
+		"pack_format": 15,
+        "description": "ICY - Colored Bricks v1.0.0"
+	}
 }

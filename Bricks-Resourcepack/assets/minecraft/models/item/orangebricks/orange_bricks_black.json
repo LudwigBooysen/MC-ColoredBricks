@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/orange_bricks/orange_bricks_black",
-		"particle": "custom/orange_bricks/orange_bricks_black"
+		"0": "block/orange_bricks/orange_bricks_black",
+		"particle": "block/orange_bricks/orange_bricks_black"
 	},
 	"elements": [
 		{
