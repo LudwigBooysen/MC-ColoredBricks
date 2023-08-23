@@ -1,13 +1,13 @@
 ### Features
 #### 🌟🌟🌟
-- Customizeable textures and functions, beacuse of the easy to understand and open source code.
-- How my minecraft datapack idea works and my goals for the project
-- Original sources for where I got the information on the minecraft facts.
+- Customizable textures and functions, because of the easy-to-understand and open-source code.
+- How my Minecraft data pack idea works and my goals for the project
+- Original sources for where I got the information on the Minecraft facts.
 - Formulas and calculated shading tricks for making the original texture.
 - Steps for contribution and pull request procedures.
 - Issuing format and recommendations.
 
-# Minecraft Colored Bricks
+# Minecraft Colored Bricks v1.0.0
 #### 🧱 🧱 🧱
 ![](https://github.com/LudwigBooysen/MC-ColoredBricks/blob/main/Images/all_colors.png)
 
@@ -35,25 +35,25 @@ You will be able to craft the different colored bricks by using their similar co
 (Missing Crafting Image)
 
 ##### Functionality
-You will be able to right-click on the already colored, and placed, bricks to color it's concrete color and after that change it's concrete color to black, giving it an amazing decoration style! <br>
+You will be able to right-click on the already colored, and placed, bricks to color its concrete color and after that change its concrete color to black, giving it an amazing decoration style! <br>
 (Missing Demonstration GIF)
 
 ##### Goals
 ###### 🎯🎯
-1. Adding all the color bricks options
-2. Multiple color concrete options (ex. redbricks with green concrete)
+1. Adding all the color brick options
+2. Multiple color concrete options (e.g. redbricks with green concrete)
 3. Improve on functionality
 4. Expand to mod packs (Java)
 
 ##### Suggestions
 ###### 🤷🏻‍♂️🤷🏻‍♂️
-1. Ideas for a paint brush type mod even, coloring other blocks as well.
+1. Ideas for a paintbrush type mod even, coloring other blocks as well.
 2. White concrete option with the black concrete option
 
 ### Sources
 ##### 📃📃📃
 ##### [Minecraft Wiki Fandom](https://minecraft.fandom.com/wiki) 
-They include a [dyes section](https://minecraft.fandom.com/wiki/Dye) covering everything from obtaining them too even their Color values, Sounds and Achievements!
+They include a [dyes section](https://minecraft.fandom.com/wiki/Dye) covering everything from obtaining them to even their Color values, Sounds, and Achievements!
 I used their statement about all the colored dyes and their default HEX values.
 
 |Color|HEX|State|
@@ -75,11 +75,11 @@ I used their statement about all the colored dyes and their default HEX values.
 |Orange|![#F9801D](https://via.placeholder.com/15/F9801D/F9801D.png) `#F9801D`| Added|
 |White|![#F9FFFE](https://via.placeholder.com/15/F9FFFE/F9FFFE.png) `#F9FFFE`| Soon|
 
-> A questionare will be handed out every week to choose the next 3 color bricks wich I will be adding
+> A questionnaire will be handed out every week to choose the next 3 color bricks which I will be adding
 
 ### Formula
 ##### ➕➖➗
-The default minecraft bricks block texture has a set shading based of the red HEX value color, therefore I could use the normal values of the color and work out a relation betwwen the shading in the colors.
+The default Minecraft bricks block texture has a set shading based on the red HEX value color, therefore I could use the normal values of the color and work out a relation between the shading in the colors.
 
 Here is the formula in a step-by-step manner :
 (S = shading; b = Basecolor (Value of HEX)) <br />
@@ -93,9 +93,9 @@ Here is the formula in a step-by-step manner :
 
 ### How to contribute
 
-Feel free to leave me suggestions for the code or even commment on them. You can contact me any way you prefer, check <a href="https://ludwigbooysen.github.io/index.html" target="_blank">My Webite</a> for more contact info!
-If you want this project to expand or be cusotmized to your choice, feel free to contact me about that as well. (NOTE: Donating will prioritize your order!)
-Requesting a pull request might not even be need as, as if now, the project only has one branch but my response time is usally between 4-8 hours depending on the day, obviously.
+Feel free to leave me suggestions for the code or even comments on them. You can contact me any way you prefer, check <a href="https://ludwigbooysen.github.io/index.html" target="_blank">My Webite</a> for more contact info!
+If you want this project to expand or be customized to your choice, feel free to contact me about that as well. (NOTE: Donating will prioritize your order!)
+Requesting a pull request might not even be needed as, if now, the project only has one branch but my response time is usually between 4-8 hours depending on the day.
 
 ### Issue format
 
@@ -106,11 +106,11 @@ Requesting a pull request might not even be need as, as if now, the project only
 > (reason)
 >
 > HOW YOU FOUND IT:
-> (explaination)
+> (explanation)
 >
 > RECOMMENDATION (optional):
 > (suggestion)
 
-This format is recommened as it helps define, verify and help with filtering.
+This format is recommended as it helps define, verify, and help with filtering.
 
 LABEL YOUR ISSUES CORRECTLY!
